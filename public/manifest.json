@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "jeromevillaruel-com",
+  "short_name": "Official website of Jerome Villaruel (VEOSCRIPT)",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Jerome Villaruel official portfolio using Qwik project app."
+}
