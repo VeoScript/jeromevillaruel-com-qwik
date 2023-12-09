@@ -12,7 +12,7 @@ const TeckStacksSection = component$(() => {
   return (
     <section class="flex justify-center w-full h-screen py-20 border-b border-slate-800 bg-accent-1">
       <div class="flex flex-col items-center justify-center w-full max-w-5xl gap-y-[8rem]">
-        <h1 class="font-rock_salt font-bold text-5xl text-accent-3">Experiences</h1>
+        <h1 class="font-rock_salt font-bold text-5xl text-accent-3">Tech Stacks</h1>
         <div class="flex flex-wrap items-center justify-center w-full max-w-full gap-10">
           {techStacksList.value.map((techstack: ITechStacks, index: number) => (
             <Link
